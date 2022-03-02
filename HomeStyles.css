@@ -1,0 +1,25 @@
+﻿.topnav {
+    background-color: midnightblue;
+    height: 100px;
+}
+
+.navtitle {
+    position: relative;
+    left: 100px;
+    top: 30px;
+}
+
+.navlink {
+    color: pink;
+    text-decoration: none;
+}
+
+.titlelist li {
+    float: left;
+    display: block;
+    padding: 15px 15px;
+    position: relative;
+    bottom: 35px;
+    left: 300px;
+    font-size: 20px;
+}
